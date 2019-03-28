@@ -1,0 +1,11 @@
+Package        Version Location                                                  
+-------------- ------- ----------------------------------------------------------
+Click          7.0     
+gitdb2         2.0.5   
+GitPython      2.1.11  
+kit-api-gitmap 0.1     /Users/korsimoro/Desktop/korsimoro/kisia-gitmap/api-python
+kit-cli-gitmap 0.1     /Users/korsimoro/Desktop/korsimoro/kisia-gitmap/kit-cli   
+pip            19.0.3  
+setuptools     40.8.0  
+smmap2         2.0.5   
+wheel          0.33.1  

@@ -15,6 +15,6 @@ setup(
     install_requires=[
     ],
     entry_points = {
-        'console_scripts': ['tool=gitmap:cli'],
+        'console_scripts': ['tool=kit.gitmap:cli'],
     }
 )

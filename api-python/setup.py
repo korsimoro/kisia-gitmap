@@ -13,6 +13,9 @@ setup(
 		'gitmap'
 		],
     install_requires=[
+		"json-spec",
+		"python-slugify",
+		"PyGitHub"
     ],
     entry_points = {
     }
