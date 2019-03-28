@@ -1,0 +1,6 @@
+setup.py
+gitmap/__init__.py
+kit_api_gitmap.egg-info/PKG-INFO
+kit_api_gitmap.egg-info/SOURCES.txt
+kit_api_gitmap.egg-info/dependency_links.txt
+kit_api_gitmap.egg-info/top_level.txt

@@ -1,0 +1,24 @@
+[submodule "github/WebOfTrustInfo/rwot8-barcelona"]
+	path = github/WebOfTrustInfo/rwot8-barcelona
+	url = https://github.com/WebOfTrustInfo/rwot8-barcelona
+[submodule "github/decentralized-identity/sidetree-core"]
+	path = github/decentralized-identity/sidetree-core
+	url = https://github.com/decentralized-identity/sidetree-core
+[submodule "github/decentralized-identity/sidetree-ipfs"]
+	path = github/decentralized-identity/sidetree-ipfs
+	url = https://github.com/decentralized-identity/sidetree-ipfs
+[submodule "github/infominer33/DIDecentralized"]
+	path = github/infominer33/DIDecentralized
+	url = https://github.com/infominer33/DIDecentralized
+[submodule "github/sovrin-foundation/token-plugin"]
+	path = github/sovrin-foundation/token-plugin
+	url = https://github.com/sovrin-foundation/token-plugin
+[submodule "github/w3c/webauthn"]
+	path = github/w3c/webauthn
+	url = https://github.com/w3c/webauthn
+[submodule "github/w3c/vc-use-cases"]
+	path = github/w3c/vc-use-cases
+	url = https://github.com/w3c/vc-use-cases
+[submodule "github/veres-one/did-veres-one"]
+	path = github/veres-one/did-veres-one
+	url = https://github.com/veres-one/did-veres-one
