@@ -22,3 +22,6 @@
 [submodule "github/veres-one/did-veres-one"]
 	path = github/veres-one/did-veres-one
 	url = https://github.com/veres-one/did-veres-one
+[submodule "github/w3c/vc-test-suite"]
+	path = github/w3c/vc-test-suite
+	url = https://github.com/w3c/vc-test-suite
