@@ -13,8 +13,10 @@ setup(
 		'kit.gitmap'
 		],
     install_requires=[
+        'click',
+        'gitpython'
     ],
     entry_points = {
-        'console_scripts': ['tool=kit.gitmap:cli'],
+        'console_scripts': ['kitcli=kit.gitmap:cli'],
     }
 )
