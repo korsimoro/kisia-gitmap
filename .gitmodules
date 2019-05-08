@@ -25,3 +25,36 @@
 [submodule "github/w3c/vc-test-suite"]
 	path = github/w3c/vc-test-suite
 	url = https://github.com/w3c/vc-test-suite
+[submodule "github/identity.com/credential-commons"]
+	path = github/identity.com/credential-commons
+	url = git@github.com:identity-com/credential-commons
+[submodule "github/identity.com/dsr"]
+	path = github/identity.com/dsr
+	url = git@github.com:identity-com/dsr
+[submodule "github/identity.com/uca"]
+	path = github/identity.com/uca
+	url = git@github.com:identity-com/uca
+[submodule "github/AnthonyRonning/btcr-electron"]
+	path = github/AnthonyRonning/btcr-electron
+	url = git@github.com:AnthonyRonning/btcr-electron
+[submodule "github/WebOfTrustInfo/btcr-did-tools-js"]
+	path = github/WebOfTrustInfo/btcr-did-tools-js
+	url = git@github.com:WebOfTrustInfo/btcr-did-tools-js
+[submodule "github/blockchain-certificates/blockcerts-verifier"]
+	path = github/blockchain-certificates/blockcerts-verifier
+	url = git@github.com:blockchain-certificates/blockcerts-verifier
+[submodule "github/blockchain-certificates/cert-verifier-js"]
+	path = github/blockchain-certificates/cert-verifier-js
+	url = git@github.com:blockchain-certificates/cert-verifier-js
+[submodule "github/blockchain-certificates/cert-issuer"]
+	path = github/blockchain-certificates/cert-issuer
+	url = git@github.com:blockchain-certificates/cert-issuer
+[submodule "github/blockchain-certificates/cert-tools"]
+	path = github/blockchain-certificates/cert-tools
+	url = git@github.com:blockchain-certificates/cert-tools
+[submodule "github/blockchain-certificates/cert-core"]
+	path = github/blockchain-certificates/cert-core
+	url = git@github.com:blockchain-certificates/cert-core
+[submodule "github/digitalbazaar/vc-js"]
+	path = github/digitalbazaar/vc-js
+	url = git@github.com:digitalbazaar/vc-js
