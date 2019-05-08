@@ -145,3 +145,6 @@
 [submodule "github/w3c-ccg/did-method-registry"]
 	path = github/w3c-ccg/did-method-registry
 	url = git@github.com:w3c-ccg/did-method-registry
+[submodule "github/AnthonyRonning/btcr-electron"]
+	path = github/AnthonyRonning/btcr-electron
+	url = git@github.com:AnthonyRonning/btcr-electron
