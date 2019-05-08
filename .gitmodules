@@ -1,6 +1,9 @@
 [submodule "github/WebOfTrustInfo/rwot8-barcelona"]
 	path = github/WebOfTrustInfo/rwot8-barcelona
 	url = https://github.com/WebOfTrustInfo/rwot8-barcelona
+[submodule "github/WebOfTrustInfo/rwot6-santabarbara"]
+	path = github/WebOfTrustInfo/rwot6-santabarbara
+	url = https://github.com/WebOfTrustInfo/rwot6-santabarbara
 [submodule "github/decentralized-identity/sidetree-core"]
 	path = github/decentralized-identity/sidetree-core
 	url = https://github.com/decentralized-identity/sidetree-core
@@ -34,9 +37,6 @@
 [submodule "github/identity.com/uca"]
 	path = github/identity.com/uca
 	url = git@github.com:identity-com/uca
-[submodule "github/AnthonyRonning/btcr-electron"]
-	path = github/AnthonyRonning/btcr-electron
-	url = git@github.com:AnthonyRonning/btcr-electron
 [submodule "github/WebOfTrustInfo/btcr-did-tools-js"]
 	path = github/WebOfTrustInfo/btcr-did-tools-js
 	url = git@github.com:WebOfTrustInfo/btcr-did-tools-js
@@ -58,3 +58,90 @@
 [submodule "github/digitalbazaar/vc-js"]
 	path = github/digitalbazaar/vc-js
 	url = git@github.com:digitalbazaar/vc-js
+[submodule "github/w3c-ccg/did-spec"]
+	path = github/w3c-ccg/did-spec
+	url = git@github.com:w3c-ccg/did-spec
+[submodule "github/w3c-ccg/did-wg-charter"]
+	path = github/w3c-ccg/did-wg-charter
+	url = git@github.com:w3c-ccg/did-wg-charter
+[submodule "github/w3c-ccg/did-use-cases"]
+	path = github/w3c-ccg/did-use-cases
+	url = git@github.com:w3c-ccg/did-use-cases
+[submodule "github/w3c-ccg/announcements"]
+	path = github/w3c-ccg/announcements
+	url = git@github.com:w3c-ccg/announcements
+[submodule "github/w3c-ccg/data-minimization"]
+	path = github/w3c-ccg/data-minimization
+	url = git@github.com:w3c-ccg/data-minimization
+[submodule "github/w3c-ccg/did-resolution"]
+	path = github/w3c-ccg/did-resolution
+	url = git@github.com:w3c-ccg/did-resolution
+[submodule "github/w3c-ccg/vc-examples"]
+	path = github/w3c-ccg/vc-examples
+	url = git@github.com:w3c-ccg/vc-examples
+[submodule "github/w3c-ccg/community"]
+	path = github/w3c-ccg/community
+	url = git@github.com:w3c-ccg/community
+[submodule "github/w3c-ccg/functional-identity"]
+	path = github/w3c-ccg/functional-identity
+	url = git@github.com:w3c-ccg/functional-identity
+[submodule "github/w3c-ccg/didm-btcr"]
+	path = github/w3c-ccg/didm-btcr
+	url = git@github.com:w3c-ccg/didm-btcr
+[submodule "github/w3c-ccg/w3c-ccg-process"]
+	path = github/w3c-ccg/w3c-ccg-process
+	url = git@github.com:w3c-ccg/w3c-ccg-process
+[submodule "github/w3c-ccg/did-primer"]
+	path = github/w3c-ccg/did-primer
+	url = git@github.com:w3c-ccg/did-primer
+[submodule "github/w3c-ccg/vc-csl2017"]
+	path = github/w3c-ccg/vc-csl2017
+	url = git@github.com:w3c-ccg/vc-csl2017
+[submodule "github/w3c-ccg/didm-veres-one"]
+	path = github/w3c-ccg/didm-veres-one
+	url = git@github.com:w3c-ccg/didm-veres-one
+[submodule "github/w3c-ccg/ocap-ld"]
+	path = github/w3c-ccg/ocap-ld
+	url = git@github.com:w3c-ccg/ocap-ld
+[submodule "github/w3c-ccg/credential-handler-api"]
+	path = github/w3c-ccg/credential-handler-api
+	url = git@github.com:w3c-ccg/credential-handler-api
+[submodule "github/w3c-ccg/did-wg-proposal"]
+	path = github/w3c-ccg/did-wg-proposal
+	url = git@github.com:w3c-ccg/did-wg-proposal
+[submodule "github/w3c-ccg/amira"]
+	path = github/w3c-ccg/amira
+	url = git@github.com:w3c-ccg/amira
+[submodule "github/w3c-ccg/registries-process"]
+	path = github/w3c-ccg/registries-process
+	url = git@github.com:w3c-ccg/registries-process
+[submodule "github/w3c-ccg/did-explainer"]
+	path = github/w3c-ccg/did-explainer
+	url = git@github.com:w3c-ccg/did-explainer
+[submodule "github/w3c-ccg/did-hackathon-2018"]
+	path = github/w3c-ccg/did-hackathon-2018
+	url = git@github.com:w3c-ccg/did-hackathon-2018
+[submodule "github/w3c-ccg/edu_occ_verifiable_credentials"]
+	path = github/w3c-ccg/edu_occ_verifiable_credentials
+	url = git@github.com:w3c-ccg/edu_occ_verifiable_credentials
+[submodule "github/w3c-ccg/ld-cryptosuite-registry"]
+	path = github/w3c-ccg/ld-cryptosuite-registry
+	url = git@github.com:w3c-ccg/ld-cryptosuite-registry
+[submodule "github/w3c-ccg/vc-status-registry"]
+	path = github/w3c-ccg/vc-status-registry
+	url = git@github.com:w3c-ccg/vc-status-registry
+[submodule "github/w3c-ccg/concept-maps"]
+	path = github/w3c-ccg/concept-maps
+	url = git@github.com:w3c-ccg/concept-maps
+[submodule "github/w3c-ccg/vc-lifecycle"]
+	path = github/w3c-ccg/vc-lifecycle
+	url = git@github.com:w3c-ccg/vc-lifecycle
+[submodule "github/w3c-ccg/w3c-ccg.github.io"]
+	path = github/w3c-ccg/w3c-ccg.github.io
+	url = git@github.com:w3c-ccg/w3c-ccg.github.io
+[submodule "github/w3c-ccg/create-repo"]
+	path = github/w3c-ccg/create-repo
+	url = git@github.com:w3c-ccg/create-repo
+[submodule "github/w3c-ccg/did-method-registry"]
+	path = github/w3c-ccg/did-method-registry
+	url = git@github.com:w3c-ccg/did-method-registry
